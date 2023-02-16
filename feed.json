@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Earnestly Developing",
+	"icon": "https://micro.blog/earnestly/avatar.jpg",
+	"home_page_url": "https://earnestly.dev/",
+	"feed_url": "https://earnestly.dev/feed.json",
+	"items": [
+		
+			{
+				"id": "http://earnestly.micro.blog/2023/01/31/excited-to-get.html",
+				
+				"content_html": "<p>Excited to get started Earnestly Developing this year. More details coming soon!</p>\n",
+				"content_text": "Excited to get started Earnestly Developing this year. More details coming soon!\n",
+				"date_published": "2023-01-31T20:34:54-06:00",
+				"url": "https://earnestly.dev/2023/01/31/excited-to-get.html"
+			}
+	]
+}
