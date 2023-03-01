@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://earnestly.micro.blog/2023/03/01/im-officially-kicking.html",
+				
+				"content_html": "<p>I&rsquo;m officially kicking of Earnestly Developing today! I&rsquo;ve written a short post outlining what I&rsquo;m planning to do. Follow along for regular updates.</p>\n<p><a href=\"https://open.substack.com/pub/earnestlydeveloping/p/hello-world?r=8col9&amp;utm_campaign=post&amp;utm_medium=web\">Hello World</a></p>\n",
+				"content_text": "I'm officially kicking of Earnestly Developing today! I've written a short post outlining what I'm planning to do. Follow along for regular updates.\r\n\r\n[Hello World](https://open.substack.com/pub/earnestlydeveloping/p/hello-world?r=8col9&utm_campaign=post&utm_medium=web)\n",
+				"date_published": "2023-03-01T15:31:02-06:00",
+				"url": "https://earnestly.dev/2023/03/01/im-officially-kicking.html"
+			},
+			{
 				"id": "http://earnestly.micro.blog/2023/01/31/excited-to-get.html",
 				
 				"content_html": "<p>Excited to get started Earnestly Developing this year. More details coming soon!</p>\n",
