@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://earnestly.micro.blog/2023/03/19/spent-some-time.html",
+				
+				"content_html": "<p>Spent some time this past week finalizing the launch page for ROAST NOTES - an upcoming tool for home coffee roasters. Now to finish up the app and get it launched!</p>\n<p><a href=\"https://roastnotes.app\">roastnotes.app</a></p>\n",
+				"content_text": "Spent some time this past week finalizing the launch page for ROAST NOTES - an upcoming tool for home coffee roasters. Now to finish up the app and get it launched!\r\n\r\n[roastnotes.app](https://roastnotes.app)\n",
+				"date_published": "2023-03-19T20:48:20-05:00",
+				"url": "https://earnestly.dev/2023/03/19/spent-some-time.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/03/19/taking-things-one.html",
+				
+				"content_html": "<p>Taking things one step at a time (even if slower than anticipated) is still good progress.</p>\n<p><a href=\"https://earnestlydeveloping.substack.com/p/small-things?sd=pf\">earnestlydeveloping.substack.com/p/small-t&hellip;</a></p>\n",
+				"content_text": "Taking things one step at a time (even if slower than anticipated) is still good progress.\r\n\r\n[earnestlydeveloping.substack.com/p/small-t...](https://earnestlydeveloping.substack.com/p/small-things?sd=pf)\n",
+				"date_published": "2023-03-19T20:47:14-05:00",
+				"url": "https://earnestly.dev/2023/03/19/taking-things-one.html"
+			},
+			{
 				"id": "http://earnestly.micro.blog/2023/03/08/no-offense-to.html",
 				
 				"content_html": "<p>No offense to Tom Petty, but sometimes it&rsquo;s the starting that&rsquo;s the hardest part.</p>\n<p><a href=\"https://earnestlydeveloping.substack.com/p/on-starting?sd=pf\">On Starting</a></p>\n",
