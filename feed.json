@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://earnestly.micro.blog/2023/06/01/to-kick-start.html",
+				
+				"content_html": "<p>To kick start things back into gear I&rsquo;m doing a 30 day challenge through the month of June: spend at least an hour doing something for Earnestly each day and post something about it. Today: updates to the new ROAST NOTES app. More details tomorrow.</p>\n",
+				"content_text": "To kick start things back into gear I'm doing a 30 day challenge through the month of June: spend at least an hour doing something for Earnestly each day and post something about it. Today: updates to the new ROAST NOTES app. More details tomorrow.\n",
+				"date_published": "2023-06-01T21:08:10-05:00",
+				"url": "https://earnestly.dev/2023/06/01/to-kick-start.html"
+			},
+			{
 				"id": "http://earnestly.micro.blog/2023/03/19/spent-some-time.html",
 				
 				"content_html": "<p>Spent some time this past week finalizing the launch page for ROAST NOTES - an upcoming tool for home coffee roasters. Now to finish up the app and get it launched!</p>\n<p><a href=\"https://roastnotes.app\">roastnotes.app</a></p>\n",
