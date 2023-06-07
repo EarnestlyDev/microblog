@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://earnestly.micro.blog/2023/06/06/day-finished-up.html",
+				
+				"content_html": "<p>Day 6/30: finished up the integration from Airtable to MailerLite w/Make - pretty smooth going (I&rsquo;m sure there&rsquo;ll be some small tweaks I&rsquo;ll make b/f going live). I&rsquo;ve been reconsidering whether I want to create user accounts when people sign up (vs just emailing them transaction details). 🤔</p>\n",
+				"content_text": "Day 6/30: finished up the integration from Airtable to MailerLite w/Make - pretty smooth going (I'm sure there'll be some small tweaks I'll make b/f going live). I've been reconsidering whether I want to create user accounts when people sign up (vs just emailing them transaction details). 🤔\n",
+				"date_published": "2023-06-06T21:23:11-05:00",
+				"url": "https://earnestly.dev/2023/06/06/day-finished-up.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/05/day-forgot-to.html",
+				
+				"content_html": "<p>Day 4/30: forgot to post an update here - I added a confirmation page for the signup process.\nDay 5/30: started working on a Make integration between Airtable and Mailerlite to add ROAST NOTES roasters to a mailing list after they signup.</p>\n",
+				"content_text": "Day 4/30: forgot to post an update here - I added a confirmation page for the signup process.\r\nDay 5/30: started working on a Make integration between Airtable and Mailerlite to add ROAST NOTES roasters to a mailing list after they signup.\n",
+				"date_published": "2023-06-05T21:51:52-05:00",
+				"url": "https://earnestly.dev/2023/06/05/day-forgot-to.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/03/day-i-wrote.html",
+				
+				"content_html": "<p>Day 3/30: I wrote about some of the details behind the pivot of ROAST NOTES. It&rsquo;s ok to change direction. Going light and lean this time around.\n<a href=\"https://earnestlydeveloping.substack.com/p/30-day-challenge-june?sd=pf\">earnestlydeveloping.substack.com/p/30-day-&hellip;</a></p>\n",
+				"content_text": "Day 3/30: I wrote about some of the details behind the pivot of ROAST NOTES. It's ok to change direction. Going light and lean this time around.\r\n[earnestlydeveloping.substack.com/p/30-day-...](https://earnestlydeveloping.substack.com/p/30-day-challenge-june?sd=pf)\n",
+				"date_published": "2023-06-03T09:03:11-05:00",
+				"url": "https://earnestly.dev/2023/06/03/day-i-wrote.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/02/day-more-updates.html",
+				
+				"content_html": "<p>Day 2/30: more updates to the ROAST NOTES landing page – it&rsquo;s about ready to go.</p>\n<p>A few weeks ago I pivoted from the original idea for RN. I liked what I&rsquo;d built, but wasn&rsquo;t convinced it was something I&rsquo;d use or pay for.</p>\n<p>The new idea: a simple way to exchange my roasts with other home roasters.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 2/30: more updates to the ROAST NOTES landing page – it's about ready to go.\r\n\r\nA few weeks ago I pivoted from the original idea for RN. I liked what I'd built, but wasn't convinced it was something I'd use or pay for.\r\n\r\nThe new idea: a simple way to exchange my roasts with other home roasters.\n\n<img src=\"uploads/2023/4cd6deb6e8.png\" width=\"600\" height=\"233\" alt=\"\">\n",
+				"date_published": "2023-06-02T08:07:14-05:00",
+				"url": "https://earnestly.dev/2023/06/02/day-more-updates.html"
+			},
+			{
 				"id": "http://earnestly.micro.blog/2023/06/01/to-kick-start.html",
 				
 				"content_html": "<p>To kick start things back into gear I&rsquo;m doing a 30 day challenge through the month of June: spend at least an hour doing something for Earnestly each day and post something about it. Today: updates to the new ROAST NOTES app. More details tomorrow.</p>\n",
