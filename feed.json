@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://earnestly.micro.blog/2023/06/12/day-getting-closer.html",
+				
+				"content_html": "<p>Day 11/30 &amp; 12/30: Getting closer on the functionality to allow logged in users track their exchanges. I&rsquo;m using Softr as the no-code tool for the front end, and it&rsquo;s somewhat simple in how/what it can display. It took a little while figuring out what I can do on the Softr side vs what I need to do in Airtable. I&rsquo;ve taken the tact of trying to get everything I need to display in Softr into a single table in Airtable. I think Airtable is able to manage more complex relationships, and it makes it simpler to simply display whats needed in Softr.</p>\n",
+				"content_text": "Day 11/30 & 12/30: Getting closer on the functionality to allow logged in users track their exchanges. I'm using Softr as the no-code tool for the front end, and it's somewhat simple in how/what it can display. It took a little while figuring out what I can do on the Softr side vs what I need to do in Airtable. I've taken the tact of trying to get everything I need to display in Softr into a single table in Airtable. I think Airtable is able to manage more complex relationships, and it makes it simpler to simply display whats needed in Softr.\n",
+				"date_published": "2023-06-12T22:36:04-05:00",
+				"url": "https://earnestly.dev/2023/06/12/day-getting-closer.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/10/day-almost-done.html",
+				
+				"content_html": "<p>Day 10/30: Almost (?) done with the refactoring to support user accounts. All of the login flows are done, but I still need to sort out some details with what users can see/do after they&rsquo;ve registered for a coffee exchange.</p>\n",
+				"content_text": "Day 10/30: Almost (?) done with the refactoring to support user accounts. All of the login flows are done, but I still need to sort out some details with what users can see/do after they've registered for a coffee exchange.\n",
+				"date_published": "2023-06-10T21:06:00-05:00",
+				"url": "https://earnestly.dev/2023/06/10/day-almost-done.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/09/day-i-made.html",
+				
+				"content_html": "<p>Day 8/30: I made a <em>tiny</em> bit of progress on the refactor to enable users to create an account at signup.\nDay 9/30: I&rsquo;ve made some more significant progress on this refactor. I think the Airtable updates have been all made, but now I&rsquo;m working through updates on the Softr side.</p>\n",
+				"content_text": "Day 8/30: I made a _tiny_ bit of progress on the refactor to enable users to create an account at signup.\r\nDay 9/30: I've made some more significant progress on this refactor. I think the Airtable updates have been all made, but now I'm working through updates on the Softr side.\n",
+				"date_published": "2023-06-09T21:50:35-05:00",
+				"url": "https://earnestly.dev/2023/06/09/day-i-made.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/07/day-i-decided.html",
+				
+				"content_html": "<p>Day 7/30: I decided I do want to have users create an account when they signup. This will enable an easy way for them to be able to view the status of their exchange - so is worth the slight complexity and time of redoing a few things with my Airtable schema.</p>\n",
+				"content_text": "Day 7/30: I decided I do want to have users create an account when they signup. This will enable an easy way for them to be able to view the status of their exchange - so is worth the slight complexity and time of redoing a few things with my Airtable schema.\n",
+				"date_published": "2023-06-07T21:39:30-05:00",
+				"url": "https://earnestly.dev/2023/06/07/day-i-decided.html"
+			},
+			{
 				"id": "http://earnestly.micro.blog/2023/06/06/day-finished-up.html",
 				
 				"content_html": "<p>Day 6/30: finished up the integration from Airtable to MailerLite w/Make - pretty smooth going (I&rsquo;m sure there&rsquo;ll be some small tweaks I&rsquo;ll make b/f going live). I&rsquo;ve been reconsidering whether I want to create user accounts when people sign up (vs just emailing them transaction details). 🤔</p>\n",
@@ -15,26 +47,10 @@
 				"url": "https://earnestly.dev/2023/06/06/day-finished-up.html"
 			},
 			{
-				"id": "http://earnestly.micro.blog/2023/06/05/day-forgot-to.html",
-				
-				"content_html": "<p>Day 4/30: forgot to post an update here - I added a confirmation page for the signup process.\nDay 5/30: started working on a Make integration between Airtable and Mailerlite to add ROAST NOTES roasters to a mailing list after they signup.</p>\n",
-				"content_text": "Day 4/30: forgot to post an update here - I added a confirmation page for the signup process.\r\nDay 5/30: started working on a Make integration between Airtable and Mailerlite to add ROAST NOTES roasters to a mailing list after they signup.\n",
-				"date_published": "2023-06-05T21:51:52-05:00",
-				"url": "https://earnestly.dev/2023/06/05/day-forgot-to.html"
-			},
-			{
-				"id": "http://earnestly.micro.blog/2023/06/03/day-i-wrote.html",
-				
-				"content_html": "<p>Day 3/30: I wrote about some of the details behind the pivot of ROAST NOTES. It&rsquo;s ok to change direction. Going light and lean this time around.\n<a href=\"https://earnestlydeveloping.substack.com/p/30-day-challenge-june?sd=pf\">earnestlydeveloping.substack.com/p/30-day-&hellip;</a></p>\n",
-				"content_text": "Day 3/30: I wrote about some of the details behind the pivot of ROAST NOTES. It's ok to change direction. Going light and lean this time around.\r\n[earnestlydeveloping.substack.com/p/30-day-...](https://earnestlydeveloping.substack.com/p/30-day-challenge-june?sd=pf)\n",
-				"date_published": "2023-06-03T09:03:11-05:00",
-				"url": "https://earnestly.dev/2023/06/03/day-i-wrote.html"
-			},
-			{
 				"id": "http://earnestly.micro.blog/2023/06/02/day-more-updates.html",
 				
 				"content_html": "<p>Day 2/30: more updates to the ROAST NOTES landing page – it&rsquo;s about ready to go.</p>\n<p>A few weeks ago I pivoted from the original idea for RN. I liked what I&rsquo;d built, but wasn&rsquo;t convinced it was something I&rsquo;d use or pay for.</p>\n<p>The new idea: a simple way to exchange my roasts with other home roasters.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2/30: more updates to the ROAST NOTES landing page – it's about ready to go.\r\n\r\nA few weeks ago I pivoted from the original idea for RN. I liked what I'd built, but wasn't convinced it was something I'd use or pay for.\r\n\r\nThe new idea: a simple way to exchange my roasts with other home roasters.\n\n<img src=\"uploads/2023/4cd6deb6e8.png\" width=\"600\" height=\"233\" alt=\"\">\n",
+				"content_text": "Day 2/30: more updates to the ROAST NOTES landing page – it's about ready to go.\r\n\r\nA few weeks ago I pivoted from the original idea for RN. I liked what I'd built, but wasn't convinced it was something I'd use or pay for.\r\n\r\nThe new idea: a simple way to exchange my roasts with other home roasters.\n\n<img src=\"https://cdn.uploads.micro.blog/98895/2023/4cd6deb6e8.png\" width=\"600\" height=\"233\" alt=\"\">\n",
 				"date_published": "2023-06-02T08:07:14-05:00",
 				"url": "https://earnestly.dev/2023/06/02/day-more-updates.html"
 			},
