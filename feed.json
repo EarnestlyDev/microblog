@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://earnestly.micro.blog/2023/06/19/days-the-weekend.html",
+				
+				"content_html": "<p>Days 17-19/30: the weekend got away from me a bit. Over the past few days I realized the way I was storing addresses (in a single field) won&rsquo;t work for the Shippo API (obvious in hindsight). I&rsquo;ve been doing a little work in Airtable to fix this which has trickled into some updates in Softr.</p>\n",
+				"content_text": "Days 17-19/30: the weekend got away from me a bit. Over the past few days I realized the way I was storing addresses (in a single field) won't work for the Shippo API (obvious in hindsight). I've been doing a little work in Airtable to fix this which has trickled into some updates in Softr.\n",
+				"date_published": "2023-06-19T21:40:18-05:00",
+				"url": "https://earnestly.dev/2023/06/19/days-the-weekend.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/16/day-today-was.html",
+				
+				"content_html": "<p>Day 16/30: Today was one of those days that fits in the <a href=\"https://earnestlydeveloping.substack.com/i/128650655/some-time-is-better-than-no-time\">some time is better than no time</a> category. Spent a little bit of time playing with Mailersend which I&rsquo;m planning to use for transactional emails.</p>\n",
+				"content_text": "Day 16/30: Today was one of those days that fits in the [some time is better than no time](https://earnestlydeveloping.substack.com/i/128650655/some-time-is-better-than-no-time) category. Spent a little bit of time playing with Mailersend which I'm planning to use for transactional emails.\n",
+				"date_published": "2023-06-16T22:24:32-05:00",
+				"url": "https://earnestly.dev/2023/06/16/day-today-was.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/15/day-half-way.html",
+				
+				"content_html": "<p>Day 15/30: Half way through. I&rsquo;ve learned 3 things so far:</p>\n<ul>\n<li>Some Time is Better Than No Time</li>\n<li>Consistency Builds Momentum</li>\n<li>The Software Is Easy</li>\n</ul>\n<p><a href=\"https://earnestlydeveloping.substack.com/p/30-day-challenge-first-half?sd=pf\">earnestlydeveloping.substack.com/p/30-day-&hellip;</a></p>\n",
+				"content_text": "Day 15/30: Half way through. I've learned 3 things so far:\r\n\r\n- Some Time is Better Than No Time\r\n- Consistency Builds Momentum\r\n- The Software Is Easy\r\n\r\n[earnestlydeveloping.substack.com/p/30-day-...](https://earnestlydeveloping.substack.com/p/30-day-challenge-first-half?sd=pf)\r\n",
+				"date_published": "2023-06-15T20:22:14-05:00",
+				"url": "https://earnestly.dev/2023/06/15/day-half-way.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/14/day-with-the.html",
+				
+				"content_html": "<p>Day 14/30: With the core functionality on the website done I&rsquo;ve turned my attention to some of the other backend processes - specifically shipping and transactional emails. I&rsquo;ll write some more in a few days after I&rsquo;ve settled on an initial plan.</p>\n",
+				"content_text": "Day 14/30: With the core functionality on the website done I've turned my attention to some of the other backend processes - specifically shipping and transactional emails. I'll write some more in a few days after I've settled on an initial plan.\n",
+				"date_published": "2023-06-14T21:10:43-05:00",
+				"url": "https://earnestly.dev/2023/06/14/day-with-the.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/13/day-got-an.html",
+				
+				"content_html": "<p>Day 13/30: Got an earlier start today instead of cramming some work in at the end of the day 💪🏼. I&rsquo;ve got all of the data bits wired into the UI. I&rsquo;m sure that I&rsquo;ll make some small tweaks later but the core functionality is there so I&rsquo;m moving onto shipping labels.</p>\n",
+				"content_text": "Day 13/30: Got an earlier start today instead of cramming some work in at the end of the day 💪🏼. I've got all of the data bits wired into the UI. I'm sure that I'll make some small tweaks later but the core functionality is there so I'm moving onto shipping labels.\n",
+				"date_published": "2023-06-13T08:08:30-05:00",
+				"url": "https://earnestly.dev/2023/06/13/day-got-an.html"
+			},
+			{
 				"id": "http://earnestly.micro.blog/2023/06/12/day-getting-closer.html",
 				
 				"content_html": "<p>Day 11/30 &amp; 12/30: Getting closer on the functionality to allow logged in users track their exchanges. I&rsquo;m using Softr as the no-code tool for the front end, and it&rsquo;s somewhat simple in how/what it can display. It took a little while figuring out what I can do on the Softr side vs what I need to do in Airtable. I&rsquo;ve taken the tact of trying to get everything I need to display in Softr into a single table in Airtable. I think Airtable is able to manage more complex relationships, and it makes it simpler to simply display whats needed in Softr.</p>\n",
