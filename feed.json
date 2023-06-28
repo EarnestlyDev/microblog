@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://earnestly.micro.blog/2023/06/27/days-ive-had.html",
+				
+				"content_html": "<p>Days 23-27/30: I&rsquo;ve had a bit of a slow spot in this 30 day challenge - just too many other things going on. Regardless &hellip;</p>\n<p>I was able to do a little debugging of the issue between Make and Shippo and open a ticket with Shippo after verifying the API request/response from Make. Turns out there&rsquo;s a bug in the API, they suggested an alternate endpoint as a workaround (the one I was using is still in beta).</p>\n<p>I think I&rsquo;m just about at the point of making a final punchlist before calling this ready.</p>\n",
+				"content_text": "Days 23-27/30: I've had a bit of a slow spot in this 30 day challenge - just too many other things going on. Regardless ... \r\n\r\nI was able to do a little debugging of the issue between Make and Shippo and open a ticket with Shippo after verifying the API request/response from Make. Turns out there's a bug in the API, they suggested an alternate endpoint as a workaround (the one I was using is still in beta). \r\n\r\nI think I'm just about at the point of making a final punchlist before calling this ready. \n",
+				"date_published": "2023-06-27T20:43:54-05:00",
+				"url": "https://earnestly.dev/2023/06/27/days-ive-had.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/22/day-tonight-was.html",
+				
+				"content_html": "<p>Day 22/30: Tonight was about getting an integration from Airtable to Shippo via Make. I&rsquo;ve got all of the correct fields from Airtable now, but am having some issues with Shippo not wanting to use the sender address. Not sure if it&rsquo;s a Make issue or a Shippo issue.</p>\n",
+				"content_text": "Day 22/30: Tonight was about getting an integration from Airtable to Shippo via Make. I've got all of the correct fields from Airtable now, but am having some issues with Shippo not wanting to use the sender address. Not sure if it's a Make issue or a Shippo issue.\n",
+				"date_published": "2023-06-22T20:42:22-05:00",
+				"url": "https://earnestly.dev/2023/06/22/day-tonight-was.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/21/day-after-stepping.html",
+				
+				"content_html": "<p>Day 21/30: After stepping back and thinking through what data I need where, I&rsquo;ve untangled the mess I made in Airtable. The Softr UI is wired back up to everything correctly, and I believe I&rsquo;ve got all of the individual fields that I need for Shippo.</p>\n",
+				"content_text": "Day 21/30: After stepping back and thinking through what data I need where, I've untangled the mess I made in Airtable. The Softr UI is wired back up to everything correctly, and I believe I've got all of the individual fields that I need for Shippo.\n",
+				"date_published": "2023-06-21T21:34:22-05:00",
+				"url": "https://earnestly.dev/2023/06/21/day-after-stepping.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/20/day-its-possible.html",
+				
+				"content_html": "<p>Day 20/30: it&rsquo;s possible that I&rsquo;ve overcomplicated the schema in my Airtable. I think I&rsquo;ve undone a few degrees of complexity - still need to rethink what that means for what I can use on Softr.</p>\n<p>I mostly like no-code, but sometimes it seems like it&rsquo;d be easier if I wasn&rsquo;t bound by its constraints.</p>\n",
+				"content_text": "Day 20/30: it's possible that I've overcomplicated the schema in my Airtable. I think I've undone a few degrees of complexity - still need to rethink what that means for what I can use on Softr. \r\n\r\nI mostly like no-code, but sometimes it seems like it'd be easier if I wasn't bound by its constraints.\n",
+				"date_published": "2023-06-20T21:22:18-05:00",
+				"url": "https://earnestly.dev/2023/06/20/day-its-possible.html"
+			},
+			{
 				"id": "http://earnestly.micro.blog/2023/06/19/days-the-weekend.html",
 				
 				"content_html": "<p>Days 17-19/30: the weekend got away from me a bit. Over the past few days I realized the way I was storing addresses (in a single field) won&rsquo;t work for the Shippo API (obvious in hindsight). I&rsquo;ve been doing a little work in Airtable to fix this which has trickled into some updates in Softr.</p>\n",
@@ -85,6 +117,22 @@
 				"content_text": "Day 6/30: finished up the integration from Airtable to MailerLite w/Make - pretty smooth going (I'm sure there'll be some small tweaks I'll make b/f going live). I've been reconsidering whether I want to create user accounts when people sign up (vs just emailing them transaction details). 🤔\n",
 				"date_published": "2023-06-06T21:23:11-05:00",
 				"url": "https://earnestly.dev/2023/06/06/day-finished-up.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/05/day-forgot-to.html",
+				
+				"content_html": "<p>Day 4/30: forgot to post an update here - I added a confirmation page for the signup process.\nDay 5/30: started working on a Make integration between Airtable and Mailerlite to add ROAST NOTES roasters to a mailing list after they signup.</p>\n",
+				"content_text": "Day 4/30: forgot to post an update here - I added a confirmation page for the signup process.\r\nDay 5/30: started working on a Make integration between Airtable and Mailerlite to add ROAST NOTES roasters to a mailing list after they signup.\n",
+				"date_published": "2023-06-05T21:51:52-05:00",
+				"url": "https://earnestly.dev/2023/06/05/day-forgot-to.html"
+			},
+			{
+				"id": "http://earnestly.micro.blog/2023/06/03/day-i-wrote.html",
+				
+				"content_html": "<p>Day 3/30: I wrote about some of the details behind the pivot of ROAST NOTES. It&rsquo;s ok to change direction. Going light and lean this time around.\n<a href=\"https://earnestlydeveloping.substack.com/p/30-day-challenge-june?sd=pf\">earnestlydeveloping.substack.com/p/30-day-&hellip;</a></p>\n",
+				"content_text": "Day 3/30: I wrote about some of the details behind the pivot of ROAST NOTES. It's ok to change direction. Going light and lean this time around.\r\n[earnestlydeveloping.substack.com/p/30-day-...](https://earnestlydeveloping.substack.com/p/30-day-challenge-june?sd=pf)\n",
+				"date_published": "2023-06-03T09:03:11-05:00",
+				"url": "https://earnestly.dev/2023/06/03/day-i-wrote.html"
 			},
 			{
 				"id": "http://earnestly.micro.blog/2023/06/02/day-more-updates.html",
