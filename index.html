@@ -24,6 +24,104 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://earnestly.dev/2023/07/23/pithy-panda.html">Pithy Panda</a></h1>
+		
+
+		<a href="https://earnestly.dev/2023/07/23/pithy-panda.html" class="u-url"><time class="dt-published" datetime="2023-07-23 15:43:41 -0500">Jul 23, 2023</time></a>
+
+		<div class="e-content">
+			 <p>I spent 30 days in June working on ROAST NOTES. I posted (nearly) daily updates. I got a lot of things working, and learned what it’d take to finish up the initial MVP. I learned a little bit more about how I’m interested in spending my time. After finishing the 30 day challenge, I took a step back. I faltered and languished. Summer things happened and I lost the momentum I’d started to build the month prior. But I did keep listening to my regular rotation of startup/side hustle related podcasts. One episode in particular struck a chord.</p>
+<hr>
+<p>Some of the first things I ran into when thinking about Earnestly was various success stories with people building drop shipping businesses. It seemed like something that’d be interesting to experiment with and learn about, and I spent a little time investigating some options but wasn’t able to find anything that really resonated with me.</p>
+<p>Until that aforementioned podcast episode.</p>
+<p>Print on demand (POD) is a form of drop shipping. You setup a website/store, collect orders, and a third party prints the item(s) and delivers them to the customer.</p>
+<p>Something about that podcast episode made me think … I could design some simple t-shirts, and try to sell them via a POD partner. But there was this little thing called ROAST NOTES that I needed to finish first - right?</p>
+<p>I wavered for a bit on this point. It’s important to finish what you’ve started, and I’ve already <a href="https://earnestly.dev/2023/06/02/day-more-updates.html">pivoted</a> once so it’d be bad form to pivot or pause again … or would it?</p>
+<hr>
+<p>In the end I decided a few things.</p>
+<ul>
+<li>This is my business/venture and I can do what I want to with it. There’s no boss to appease or board to convince that I should do something different.</li>
+<li>Whatever the specifics of what I’ll end up building, the overarching goal of the whole thing is to try to build small things. Even if they fail I’ll still learn something.</li>
+<li>In order for ROAST NOTES (or anything else) to succeed, I’m going to have to market/advertise it before anyone can find it. If I have to learn how to do this while also keeping it running, that might not be the most ideal use of my time.</li>
+<li>I think t-shirts are fun (I probably wear more t-shirts than any other type of shirt).</li>
+</ul>
+<hr>
+<p>I’m pausing work on ROAST NOTES to work on <a href="https://linkpop.com/pithypanda">Pithy Panda</a>. The business part of selling POD t-shirts will require less manual work to keep things moving than ROAST NOTES would, freeing me to focus on learning how to build an audience/customer base. Those skills will be useful whenever I return to ROAST NOTES or try the next thing.</p>
+<hr>
+<p>What do you think? Should I have pushed ROAST NOTES across the finish line? Will it be harder than I think to sell POD t-shirts?</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://earnestly.dev/2023/06/30/day-challenge-final.html">30 Day Challenge: Final Reflection</a></h1>
+		
+
+		<a href="https://earnestly.dev/2023/06/30/day-challenge-final.html" class="u-url"><time class="dt-published" datetime="2023-06-30 17:43:23 -0500">Jun 30, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Day 30/30: Today marks the 30th and final day of this 30 day challenge. It’s been a good way to focus my time over the past month. Before waxing about what I’ve learned over the challenge, how far did the challenge get me?</p>
+<p>In short, if this was a single piece of software I was versioning, it’d get an <em>alpha</em> label at this point. Everything that I think is needed is there, but there’s a fair bit of testing that’s needed. In this case it’s largely integration testing - how do all of the individual parts play together? Does it make sense for me as the maintainer? Will it make sense to users?</p>
+<p>In other words, not so bad Charlie Brown, not so bad. I’m happy with what the renewed focus has helped me accomplish.</p>
+<hr>
+<p>What else have I learned? <a href="https://earnestly.dev/2023/06/15/day-half-way.html">Last time</a> I wrote about 3 things that were more philosophical in nature:</p>
+<ol>
+<li>Some Time is Better Than No Time</li>
+<li>Consistency Builds Momentum</li>
+<li>The Software Is Easy</li>
+</ol>
+<p>As I reflect on the challenge as a whole, those things still stand, but the past week or so I feel like I’ve been learning more tactical/technical things. In no particular order:</p>
+<ul>
+<li>Airtable data modeling: I <a href="https://earnestly.dev/2023/06/20/day-its-possible.html">realized</a> that I was overthinking things. Fortunately it wasn’t too far gone and I was able to straighten things out the <a href="https://earnestly.dev/2023/06/21/day-after-stepping.html">next day</a>. Lesson learned: keep it simple (and live within the constraints of the no-code tool).</li>
+<li>Make integrations: As a developer I’m intimately familiar with making REST API calls directly. I’ve been using <a href="https://www.make.com/">Make</a> as the way to tie things together, and thanks to the collection of integrations they support, making a handful of API calls was as easy as dragging/dropping a few things in their scenario builder. After <a href="https://earnestly.dev/2023/06/27/days-ive-had.html">finding</a> what ended up being a bug in the Shippo API I was able to dig deeper into some of those calls using some of their tooling to inspect the request/response objects.</li>
+<li>Shippo: After the aforementioned bug with the Shippo API, I had to do a little more digging/learning about how orders and shipments work in their system. Since I’m starting this out with a lot of manual processing, I don’t have a “store” to integrate with their system (and don’t want to use or build one). After digging around a bit I think I’ve got a handle on things. I’m going to live with the bug in their API (it’ll be fixed eventually) and just manually update the information that’s not making it through.</li>
+<li>USPS Shipping: This is still something I need to do a little more learning on, but as I get closer to launching this thing out there I’ve had to learn more about the ins and outs of USPS shipping rates. Coming up on my TODO list is probably a trip to my local post office to ask them a few questions to confirm what I’ve been reading.</li>
+</ul>
+<hr>
+<p>When I <a href="https://earnestly.dev/2023/03/01/im-officially-kicking.html">first officially started</a> Earnestly Developing there was still a part of me trying to figure out exactly what it is I want to do. I figured out enough to get started, but the end destination was still a little murky. It still is, but I’ve gained a little bit of clarity over the past week or so.</p>
+<ol>
+<li>I’m more interested in building some small side hustles with passive income than building something with the intention of it becoming a full time thing. Of course if any of these take off unexpectedly I’m happy to revisit this :-)</li>
+<li>I’m more interested in “doing the work” than “writing about the work”. There’s a bit of tension held here, because “writing about the work” is the primary way I’m planning to help people find out about what I’m building. I don’t think I’m going to stop writing about it, but I’m going to try to shift (if even just mentally) where the balance is between the two.</li>
+</ol>
+<hr>
+<p>So what does the next 30 days hold? Time will tell, but I won’t necessarily be posting daily updates as formally as I have been. I’m going to try to continue the momentum of making daily small steps, but might try to consolidate progress updates to once or twice a week.</p>
+<p>As far as what’s next for ROAST NOTES? Lots of that integration testing I mentioned up top. And marketing. Gotta figure out where the coffee roasting people are hanging out and how to let them know about this without being pushy/annoying about it.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://earnestly.dev/2023/06/29/day-today-has.html" class="u-url"><time class="dt-published" datetime="2023-06-29 16:37:21 -0500">Jun 29, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Day 29/30: Today has been a bit of <a href="https://en.wiktionary.org/wiki/yak_shaving">yak shaving</a> on my <a href="https://earnestly.dev">blog</a> triggered by an unintentional update of the theme I was using. I&rsquo;d been thinking about changing it up anyways and starting to post longer updates here instead of Substack, so it was time well spent.</p>
+<p>Shoutout to <a href="https://micro.blog/mtt">@Mtt</a> for the excellent <a href="http://tinyformicro.blog">Tiny Theme</a> that I&rsquo;m now using.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://earnestly.dev/2023/06/28/day-a-productive.html" class="u-url"><time class="dt-published" datetime="2023-06-28 20:34:52 -0500">Jun 28, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Day 28/30: a productive afternoon:</p>
+<ul>
+<li>created email templates in MailerSend needed throughout the workflow</li>
+<li>revisited the Stripe payment link I created a while back (I think it&rsquo;s good to go)</li>
+<li>dug into various aspects of shipping, think I have a good plan</li>
+<li>started to sketch out a final punchlist</li>
+</ul>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://earnestly.dev/2023/06/27/days-ive-had.html" class="u-url"><time class="dt-published" datetime="2023-06-27 20:43:54 -0500">Jun 27, 2023</time></a>
 
